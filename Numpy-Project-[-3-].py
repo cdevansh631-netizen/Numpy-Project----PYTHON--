@@ -1,6 +1,12 @@
 #3️⃣ Temperature Data Analysis
-
-
+# You have 30 days temperature.
+# Find:
+# Hottest day
+# Coldest day
+# Average temperature
+# Days above 35°C
+# You learn
+# max, min, mean, conditions
 #Using where,loop:-
 import numpy as np
 Days=np.array(["DAY1","DAY2","DAY3","DAY4","DAY5","DAY6","DAY7","DAY8","DAY","DAY10","DAY11","DAY12","DAY13","DAY14","DAY15","DAY16","DAY17","DAY18","DAY19","DAY20","DAY21","DAY22","DAY23","DAY24","DAY25","DAY26","DAY27","DAY28","DAY29","DAY30"])
