@@ -1,4 +1,15 @@
-#2️⃣ Student Marks Analyzer..
+#2️⃣ Student Marks Analyzer
+# You have marks of students in subjects:
+# marks = [[70, 80, 60],
+#          [90, 85, 88],
+#          [50, 45, 60]]
+# Find:
+# Average marks per student
+# Average per subject
+# Highest scorer
+# Failed students
+# You learn
+# axis, mean, max, filtering
 import numpy as np
 Marks=np.array([[70,80,60],[11,2,8],[50,45,60]])
 AVGMARK=np.mean(Marks,axis=1)
