@@ -1,5 +1,12 @@
 #4️⃣ Salary Management System
-
+# You have employee salaries.
+# Find:
+# Total salary expense
+# Average salary
+# Who earns more than average
+# Highest and lowest paid employee
+# You learn
+# Comparison + filtering
 import numpy as np
 Employee=np.array(["Ajay","Dev","Mayank","Harit","Aman"])
 Salary=np.array([60000,50000,70000,20000,60000])
