@@ -1,5 +1,5 @@
 #3️⃣ Temperature Data Analysis
-# You have 30 days temperature.
+# You have 30 days temperature..
 # Find:
 # Hottest day
 # Coldest day
