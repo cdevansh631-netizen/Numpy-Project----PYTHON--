@@ -1,10 +1,10 @@
 #4️⃣ Salary Management System
-# You have employee salaries.
+# You have employee salaries..
 # Find:
 # Total salary expense
 # Average salary
 # Who earns more than average
-# Highest and lowest paid employee
+# Highest and lowest paid employee.
 # You learn
 # Comparison + filtering
 import numpy as np
