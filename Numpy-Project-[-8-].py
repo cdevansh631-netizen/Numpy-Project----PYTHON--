@@ -5,7 +5,7 @@
 # Use NumPy to:
 # Find total yearly expense
 # Average monthly expense
-# Most expensive month
+# Most expensive montht 
 # Category with highest spending
 # Skills: sum, mean, axis, max
 import numpy as np
