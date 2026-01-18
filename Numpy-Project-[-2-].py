@@ -1,5 +1,5 @@
 #2️⃣ Student Marks Analyzer
-# You have marks of students in subjects:
+# You have marks of students in subjects:.
 # marks = [[70, 80, 60],
 #          [90, 85, 88],
 #          [50, 45, 60]]
