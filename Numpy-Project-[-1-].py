@@ -1,5 +1,5 @@
 #NUMPY REAL TIME PROJECT:--
-# 1️⃣ Sales Analysis System
+# 1️⃣ Sales Analysis System..
 # What you do
 # You have:
 # price = [10, 20, 30, 40]
